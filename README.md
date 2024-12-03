@@ -4,9 +4,9 @@
 In this article i'll show you how to set up a 
 virtual environment for developing python projects.
 A video version series of this article can be found below: 
-[Watch the tutorials](https://youtu.be/glmVJBAf5qA)
-[Watch the tutorials](https://youtu.be/Ellaf5PoR9g)
-[Watch the tutorials](https://youtu.be/HpFVx6QqQRA)
+[Watch part 1](https://youtu.be/glmVJBAf5qA)
+[Watch part 2](https://youtu.be/Ellaf5PoR9g)
+[Watch part 3](https://youtu.be/HpFVx6QqQRA)
 
 ## Why?
 
